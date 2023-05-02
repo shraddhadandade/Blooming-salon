@@ -1,1 +1,1 @@
-# salon-v1-client
+# salon-client
